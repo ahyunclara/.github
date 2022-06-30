@@ -3,7 +3,7 @@
 
 <div align=center>
  <h1> HELLO WORLD!  HELLO SMARCLE!👋 </h1>
- <h2> 세종대학교 지능기전공학부 인공지능 응용 학술동아리 SMARCLE (스마클) 입니다. </h2>
+ <h2> 세종대학교 지능기전공학부<br/> 인공지능 응용 학술동아리 SMARCLE (스마클) 입니다. </h2>
  <br>
  <img src="https://img.shields.io/badge/AI-brightgreen"/>
  <img src="https://img.shields.io/badge/Embedded System-red"/>
