@@ -35,9 +35,9 @@
         src="http://img.shields.io/badge/-Youtube-red?style=flat&logo=YouTube&link=https://www.youtube.com/channel/UCxPZRmnp-Fuw5S_NEXaML4w"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
  </a>
- <a href="https://www.notion.so/SMARCLE-e26ef269a0874a32a1296ac56ee776a5">
+ <a href="https://smarcle.notion.site/SMARCLE-1036b00eb74e48d3ad0c48b34de93771">
     <img 
-        src="http://img.shields.io/badge/-Notion-blue?style=flat&logo=Notion&link=https://www.notion.so/SMARCLE-e26ef269a0874a32a1296ac56ee776a5"
+        src="http://img.shields.io/badge/-Notion-blue?style=flat&logo=Notion&link=https://smarcle.notion.site/SMARCLE-1036b00eb74e48d3ad0c48b34de93771"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
  </a>
  
