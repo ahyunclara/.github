@@ -4,7 +4,7 @@
 <div align=center>
  <h1> HELLO WORLD!  HELLO SMARCLE!👋 </h1>
  <h2> 세종대학교 지능기전공학부<br/> 인공지능 응용 학술동아리 SMARCLE </h2>
- <h3>We are interested 'AI'</h3>
+ <h3>We are interested in 'AI'</h3>
  <br>
  <img src="https://img.shields.io/badge/AI-brightgreen"/>
  <img src="https://img.shields.io/badge/Embedded System-red"/>
@@ -23,7 +23,7 @@
  <h3>관련 정보</h3>
  <a href="https://www.smarcle.dev/">
     <img 
-        src="http://img.shields.io/badge/-Web%20site-655ced?style=flat&link=https://www.smarcle.dev/"
+        src="http://img.shields.io/badge/-SMARCLE%20Page-655ced?style=flat&link=https://www.smarcle.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
  </a>
  <a href="https://instagram.com/sejongsmarcle">
